@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marah Wesam
+# 👋 Hi, I'm Marah Shahin
 
 🎓 **Student** passionate about technology, coding, and web development.
 
